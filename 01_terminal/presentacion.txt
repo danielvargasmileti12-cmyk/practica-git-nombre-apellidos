@@ -1,0 +1,5 @@
+Contenido de presentación.txt
+
+Nombre: Daniel Vargas Mileti
+Curso: DAW
+Este es mi primer ejercicio utilizando Git.
